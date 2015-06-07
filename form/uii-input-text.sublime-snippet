@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="uii-input-control">
+	<label for="">${1:}</label>
+	<input type="text" name="${2:}" placeholder="${3:}" class="uii-input" required="required">
+</div>
+]]></content>
+	<tabTrigger>uii-input-text</tabTrigger>
+</snippet>
